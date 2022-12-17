@@ -1,0 +1,103 @@
+ 
+body {
+    background-image:url("../image/Home/bg5.jpg");
+}
+.navbar{
+    position:absolute;
+    margin-top:0%;
+} 
+.navbar-brand {
+    color: blue;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight:bolder;
+}
+.navbar-brand img{
+    height:50px;
+    width:50px;
+}
+.navbar-nav {
+    position:relative;
+    margin-left: 450px;
+    justify-content:space-between;
+}
+
+.navbar-nav a {
+    color: white;
+    font-weight:bolder;
+}
+.navbar-nav a:hover {
+    color: blue;
+}
+
+.backgroundimg img{
+    width: 100%;
+}
+.about-style{
+    color:white;
+    font-weight: bolder;
+}
+
+.Thecorevalue{
+    background-color: #004000;
+    box-shadow: #1e272e;
+    margin-top: 40px;
+    color:white;
+    height: 400px;
+    position:relative;
+    
+  }
+  .Thecorevalue .card{
+    margin-top: 40px;
+    margin-left: 15px;
+    margin-right: 15px;
+    bottom: 10px;
+    height: 200px;
+    text-align: center;
+  }
+
+  .Thecorevalue .card p{
+      color: #000;
+      font-weight: bold;
+      width: fit-content;
+  }
+
+  .Vission-Mission{
+      width:fit-content;
+      height: 400px;
+      color: black;
+  }
+
+  .Vission-Mission .card {
+      height: 400px;
+      text-align: center;
+  }
+  .Vission-Mission .card img{
+       width: 100%;
+       height: 200px;
+  }
+
+footer{
+    margin-top: 50px;
+    background: black;
+    width: auto;
+    height: auto;
+    color:#fff;
+}
+footer h1{
+    margin-left: 20px;
+    color: #fff;
+}
+footer p a {
+    color: #fff;
+}
+footer .card{
+    background: black;
+    color: #fff;
+    height: 55px;
+}
+
+.last{
+   text-align: center;
+}

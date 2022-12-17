@@ -1,0 +1,130 @@
+
+body {
+    background-image:url("../image/Home/bg5.jpg");
+}
+.navbar{
+    position:absolute;
+    margin-top:0%;
+} 
+.navbar-brand {
+    color: blue;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight:bolder;
+}
+.navbar-brand img{
+    height:50px;
+    width:50px;
+}
+.navbar-nav {
+    position:relative;
+    margin-left: 450px;
+    justify-content:space-between;
+}
+
+.navbar-nav a {
+    color: white;
+    font-weight:bolder;
+}
+.navbar-nav a:hover {
+    color: blue;
+}
+
+.backgroundimg img{
+    width: 100%;
+}
+
+.intro {
+   margin-top:50px;
+    color: white;
+    font-weight: bolder;
+    position:relative;
+}
+.intro h1 {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.intro-style{
+    margin-left: 30px;
+    margin-top:20px;
+}
+.intro .card{
+    color:black;
+    width: fit-content;
+    height:fit-content;
+}
+ .Value{
+     background-color: yellow;
+ }
+
+ .products-main{
+    color:#fff;
+    font-weight: bolder;
+    height:500px;
+ }
+
+ .products-main h1{
+     margin-top: 50px;
+ }
+   .products-main .card{
+    margin-top: 50px;
+    text-align: center;
+    bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: none;
+
+   }
+
+   .products-main .card img{
+       height: 300px;
+   }
+
+.Services-main{
+    color: #fff;
+    font-weight: bolder;
+    height:500px;
+ }
+ .Services-main h1{
+    margin-top: 50px;
+    margin-left:15px;
+ }
+   .Services-main .card{
+    margin-top: 300px;   
+    margin-left: 15px;
+    margin-right: 15px;
+    bottom: 10px;   
+    background: none;
+    margin-top: 50px;
+    text-align: center;
+    height: fit-content;
+   }
+ 
+   .Services-main .card img{
+       height: 300px;
+   }
+
+footer{
+    margin-top: 50px;
+    background: black;
+    width: auto;
+    height: auto;
+    color:#fff;
+}
+footer h1{
+    margin-left: 20px;
+    color: #fff;
+}
+footer p a {
+    color: #fff;
+}
+footer .card{
+    background: black;
+    color: #fff;
+    height: 55px;
+}
+
+.last{
+   text-align: center;
+}

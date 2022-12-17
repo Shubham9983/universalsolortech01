@@ -1,0 +1,69 @@
+
+body {
+    background-image:url("../image/Home/bg5.jpg");
+    
+}
+.navbar{
+    position:absolute;
+    margin-top:0%;
+} 
+.navbar-brand {
+    color: blue;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight:bolder;
+}
+.navbar-brand img{
+    height:50px;
+    width:50px;
+}
+.navbar-nav {
+    position:relative;
+    margin-left: 450px;
+    justify-content:space-between;
+}
+
+.navbar-nav a {
+    color: white;
+    font-weight:bolder;
+}
+.navbar-nav a:hover {
+    color: blue;
+}
+
+.backgroundimg img{
+    width: 100%;
+}
+.products{
+    color:#fff;
+    font-weight: bolder;
+}
+.SolarProducts .card{
+    color:black;
+}
+
+
+footer{
+    margin-top: 50px;
+    background: black;
+    width: auto;
+    height: auto;
+    color:#fff;
+}
+footer h1{
+    margin-left: 20px;
+    color: #fff;
+}
+footer p a {
+    color: #fff;
+}
+footer .card{
+    background: black;
+    color: #fff;
+    height: 55px;
+}
+
+.last{
+  text-align: center;
+}
